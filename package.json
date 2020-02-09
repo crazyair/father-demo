@@ -1,6 +1,6 @@
 {
   "name": "father-antd-demo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/index.esm.js",
   "module": "dist/index.esm.js",
@@ -31,6 +31,6 @@
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.8.4",
-    "antd": "^3.26.8"
+    "antd": "^4.0.0-rc.4"
   }
 }
